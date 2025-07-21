@@ -1,0 +1,13 @@
+# ninja log v5
+1	146	7665529088541466	nuget-populate-prefix/src/nuget-populate-stamp/nuget-populate-mkdir	b2662aed950ca7d4
+2092	2135	7665529108438992	nuget-populate-prefix/src/nuget-populate-stamp/nuget-populate-update	7e9cc371bed640d4
+2181	2248	7665529109558954	nuget-populate-prefix/src/nuget-populate-stamp/nuget-populate-copyfile	3b6f5be3322a37b6
+147	2092	7665529107998941	nuget-populate-prefix/src/nuget-populate-stamp/nuget-populate-download	938606418f72d4de
+2135	2180	7665529108878938	nuget-populate-prefix/src/nuget-populate-stamp/nuget-populate-patch	1c30b27446fa9059
+2181	2248	7665529109558954	C:/Users/Andrew/Documents/SmartWindow/App/smart_window/windows/out/build/x64-Debug/_deps/nuget-src/nuget.exe	3b6f5be3322a37b6
+2253	2302	7665529110078977	nuget-populate-prefix/src/nuget-populate-stamp/nuget-populate-configure	f5810b42cab026cd
+2302	2357	7665529110648960	nuget-populate-prefix/src/nuget-populate-stamp/nuget-populate-build	cb0eb72d20f86c3
+2357	2401	7665529111098948	nuget-populate-prefix/src/nuget-populate-stamp/nuget-populate-install	6f3b9240828173a5
+2402	2446	7665529111538950	nuget-populate-prefix/src/nuget-populate-stamp/nuget-populate-test	a27dbc111e7a1fd8
+2446	2510	7665529112168950	CMakeFiles/nuget-populate-complete	139fa447eee05c4f
+2446	2510	7665529112168950	nuget-populate-prefix/src/nuget-populate-stamp/nuget-populate-done	139fa447eee05c4f
