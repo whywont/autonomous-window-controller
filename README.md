@@ -13,6 +13,8 @@ Animation created in Unity for demonstration
 
 ![Smart Window Closer Demo](demo/demo.gif)
 
+
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 ---
 ## Features
 
@@ -86,7 +88,7 @@ Animation created in Unity for demonstration
 
 #### Arduino
 
-- Upload `WindowCloser.ino` from the `/arduino` directory using the Arduino IDE.
+- Upload `Controller.ino` from the `/arduino` directory using the Arduino IDE.
 - Ensure required libraries are installed (`DHT`, `EEPROM`, etc.).
 
 #### Android
@@ -94,48 +96,4 @@ Animation created in Unity for demonstration
 - Build the Flutter app from `/android_app` using Android Studio or install the precompiled APK.
 - Pair your phone with the HC-05 Bluetooth module.
 - Launch the app, connect to HC-05, and test functionality.
-
----
-
-## Testing and Results
-
-### Hardware System
-
-- Completed by **March 31**
-- Functional capstan-style system reliably opens/closes real sliding window
-- Motor and spool setup passes force/tension requirements
-
-### Sensor Integration
-
-- Completed by **April 8**
-- Sensors: DHT11, photoresistor, IR sensor, ACS712, HC-05
-- Arduino triggers correct behavior based on sensor thresholds
-
-### Software System
-
-- Completed by **April 14**
-- App provides real-time data, threshold configuration, manual/auto control
-- Arduino stores values in EEPROM and acts on thresholds accordingly
-
----
-
-## Limitations
-
-- No rain or sound sensor integration (time constraints)
-- Opening is time-based; closing uses IR sensor
-- Any one sensor can trigger window closure
-- Cooldown added to prevent repeated open/close cycles
-
----
-
-## Future Improvements
-
-- Integrate rain and sound detection
-- Add encoder/potentiometer for precise window position tracking
-- Replace Bluetooth with Wi-Fi for remote access
-- Add OTA firmware updates
-
----
-
-## Repository Structure
 
