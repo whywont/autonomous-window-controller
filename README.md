@@ -9,12 +9,15 @@ Designed for affordability, modularity, and compatibility with most sliding wind
 ---
 Animation created in Unity for demonstration
 
-## Demo
+## Demon Animation
 
 ![Smart Window Closer Demo](demo/demo.gif)
 
 
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/INwDxqb18yk))
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/INwDxqb18yk/hqdefault.jpg)](https://youtu.be/INwDxqb18yk)
+
 ---
 ## Features
 
