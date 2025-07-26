@@ -14,7 +14,7 @@ Animation created in Unity for demonstration
 ![Smart Window Closer Demo](demo/demo.gif)
 
 
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/INwDxqb18yk))
 ---
 ## Features
 
