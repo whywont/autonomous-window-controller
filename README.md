@@ -6,19 +6,21 @@ This project is a smart home device that automatically opens and closes a slidin
 
 Designed for affordability, modularity, and compatibility with most sliding windows.
 
----
-Animation created in Unity for demonstration
 
-## Demon Animation
+---
+
+## Simulation
 
 ![Smart Window Closer Demo](demo/demo.gif)
 
-
+Simulation created in Unity
 ## Demo Video
+
 
 [![Watch the demo](https://img.youtube.com/vi/INwDxqb18yk/hqdefault.jpg)](https://youtu.be/INwDxqb18yk)
 
----
+There is a 10 second cooldown required to wait between actions (open/close) and that is removed from the video for brevity. 
+
 ## Features
 
 - Automatically opens/closes a window based on:
